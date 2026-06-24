@@ -8,34 +8,34 @@ Here's a list of what I've done, categorized by programming language, as well as
 ---
 
 ## C Projects: 
-| Repo | Description |
-|---|---|
-|[BlackJack](https://github.com/The-Jedi-501/Final_Project) | A first-semester freshman team project culminating our knowledge into a playable terminal game we were all proud of
+| Repo | Description | Reason for building |
+|---|---|---|
+|[BlackJack](https://github.com/The-Jedi-501/Final_Project) | A first-semester freshman team project culminating our knowledge into a playable terminal game we were all proud of | Group project
 
 
 ## C++ Projects:
-| Repo | Description |
-|---|---|
+| Repo | Description | Reason for building |
+|---|---|---|
 | [StarWarsFleetBattle](https://github.com/The-Jedi-501/StarWarsFleetBattle) | Fleet battle simulation using OOP, classes, and combat logic | Personal Project
 
 
 ## Python Projects:
-| Repo | Description |
-|---|---|
+| Repo | Description | Reason for building |
+|---|---|---|
 | [RPG-Maker-Team-Compostition](https://github.com/The-Jedi-501/RPG-Maker-Team-Compostition) | Destiny 2 fireteam builder — inheritance, polymorphism, dicts | Personal Project 
 | [To-do-tasks](https://github.com/The-Jedi-501/To-do-tasks-) | Task priority tracker | Personal Project
 
 
 ## Hardware Projects *(coming soon)*:
-| Project | Description |
-|---|---|
+| Project | Description | Reason for building |
+|---|---|---|
 | Arduino Servo Project | Hands-on breadboard build with servo motors |
 | Sonar Display | Physical build to complement the C++ radar project |
 
 
 ## Research Projects *(coming soon)*:
-| Repo | Description |
-|---|---|
+| Repo | Description | Reason for building |
+|---|---|---|
 | UUV Defender Agent(s) | 
 
 
