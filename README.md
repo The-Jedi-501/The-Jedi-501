@@ -23,11 +23,17 @@ Here's a list of what I've done, categorized by programming language, as well as
 | [To-do-tasks](https://github.com/The-Jedi-501/To-do-tasks-) | Task priority tracker | Personal Project
 
 
-## Hardware *(coming soon)*:
+## Hardware Projects *(coming soon)*:
 | Project | Description |
 |---|---|
 | Arduino Servo Project | Hands-on breadboard build with servo motors |
 | Sonar Display | Physical build to complement the C++ radar project |
+
+
+## Research Projects *(coming soon)*:
+| Repo | Description |
+|---|---|
+| UUV Defender Agent(s) | 
 
 
 *CE/EE @ UMass Dartmouth — always building something*
