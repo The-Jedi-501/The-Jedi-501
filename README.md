@@ -1,7 +1,7 @@
 # Hey, I'm Chris 👋
 
 Undergraduate at UMass Dartmouth studying Computer Engineering and Electrical Engineering. Interested in embedded systems, robotics, and defense applications.
-Here's a list of what I've done, categorized by programming language, as well as my involvement in some research
+Here's a list of what I've done, categorized by programming language, as well as my involvement in some research (For hardware, I plan on posting the Arduino code as well as a picture and video of the working final circuit(s))
 ---
 
 ## C Projects: 
