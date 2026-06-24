@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Chris 👋
 
-<!--
-**The-Jedi-501/The-Jedi-501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate at UMass Dartmouth studying Computer Engineering and Electrical Engineering. Interested in embedded systems, robotics, and defense applications.
+Here's a list of what I've done categorized by language of projects as well as my involvement in some research
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## C++ Projects
+| Repo | Description |
+
+| [StarWarsFleetBattle] | Fleet battle simulation using OOP, classes, and combat logic | Personal Project
+| Radar Display *(in progress)* | Raylib-based sonar/radar display with target tracking |
+
+## Python Projects
+| Repo | Description |
+|---|---|
+| [RPG-Maker-Team-Compostition](https://github.com/The-Jedi-501/RPG-Maker-Team-Compostition) | Destiny 2 fireteam builder — inheritance, polymorphism, dicts |
+| [To-do-tasks](https://github.com/The-Jedi-501/To-do-tasks-) | Task priority tracker |
+
+## Hardware *(coming soon)*
+| Project | Description |
+|---|---|
+| Arduino Servo Project | Hands on breadboard build with servo motors |
+| Sonar Display | Physical build to complement the C++ radar project |
+
+
+*CE/EE @ UMass Dartmouth — always building something*
