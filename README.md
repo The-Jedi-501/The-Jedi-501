@@ -5,6 +5,7 @@ Undergraduate at UMass Dartmouth studying Computer Engineering and Electrical En
 Here's a list of what I've done, categorized by programming language, as well as my involvement in some research 
 
 (For hardware, I plan on posting the Arduino code as well as a picture and video of the working final circuit(s))
+
 ---
 
 ## C Projects: 
