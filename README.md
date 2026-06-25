@@ -2,7 +2,7 @@
 
 Undergraduate at UMass Dartmouth studying Computer Engineering and Electrical Engineering. Interested in embedded systems, robotics, and defense applications.
 
-Here's a list of what I've done, categorized by programming language, as well as my involvement in some research 
+Here's a list of what I've done, categorized by programming language, as well as my involvement in some research, and when projects were built, so I have a timeline of my skills developing over time
 
 (For hardware, I plan on posting the Arduino code as well as a picture and video of the working final circuit(s))
 
@@ -11,15 +11,15 @@ add all my rf stuff from design also just putting all my projects here rn so its
 ---
 
 ## C Projects: 
-| Repo | Description | Reason for building |
-|---|---|---|
-|[BlackJack](https://github.com/The-Jedi-501/Final_Project) | A first-semester freshman team project culminating our knowledge into a playable terminal game we were all proud of | Group project
+| Repo | Description | Reason for building | When it was built |
+|---|---|---|---|
+|[BlackJack](https://github.com/The-Jedi-501/Final_Project) | A first-semester freshman team project culminating our knowledge into a playable terminal game we were all proud of | Group project | End of Freshman First Semester
 
 
 ## C++ Projects:
-| Repo | Description | Reason for building |
-|---|---|---|
-| [StarWarsFleetBattle](https://github.com/The-Jedi-501/StarWarsFleetBattle) | Fleet battle simulation using OOP, classes, and combat logic | Personal Project
+| Repo | Description | Reason for building | When it was built |
+|---|---|---|---|
+| [StarWarsFleetBattle](https://github.com/The-Jedi-501/StarWarsFleetBattle) | Fleet battle simulation using OOP, classes, and combat logic | Personal Project | End of Freshman Year, Summer Project
 
 
 ## Python Projects:
