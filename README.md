@@ -13,13 +13,13 @@ add all my rf stuff from design also just putting all my projects here rn so its
 ## C Projects: 
 | Repo | Description | Reason for building | When it was built |
 |---|---|---|---|
-|[BlackJack](https://github.com/The-Jedi-501/Final_Project) | A first-semester freshman team project culminating our knowledge into a playable terminal game we were all proud of | Group project | End of Freshman First Semester
+|[BlackJack](https://github.com/The-Jedi-501/Final_Project) | A first-semester freshman team project culminating our knowledge into a playable terminal game we were all proud of | Group project | End of Freshman First Semester |
 
 
 ## C++ Projects:
 | Repo | Description | Reason for building | When it was built |
 |---|---|---|---|
-| [StarWarsFleetBattle](https://github.com/The-Jedi-501/StarWarsFleetBattle) | Fleet battle simulation using OOP, classes, and combat logic | Personal Project | End of Freshman Year, Summer Project
+| [StarWarsFleetBattle](https://github.com/The-Jedi-501/StarWarsFleetBattle) | Fleet battle simulation using OOP, classes, and combat logic | Personal Project | End of Freshman Year, Summer Project |
 
 
 ## Python Projects:
