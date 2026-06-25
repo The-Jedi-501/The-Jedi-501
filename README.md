@@ -23,23 +23,23 @@ add all my rf stuff from design also just putting all my projects here rn so its
 
 
 ## Python Projects:
-| Repo | Description | Reason for building |
-|---|---|---|
-| [RPG-Maker-Team-Compostition](https://github.com/The-Jedi-501/RPG-Maker-Team-Compostition) | Destiny 2 fireteam builder — inheritance, polymorphism, dicts | Personal Project 
-| [To-do-tasks](https://github.com/The-Jedi-501/To-do-tasks-) | Task priority tracker | Personal Project
+| Repo | Description | Reason for building | When it was built |
+|---|---|---|---|
+| [RPG-Maker-Team-Compostition](https://github.com/The-Jedi-501/RPG-Maker-Team-Compostition) | Destiny 2 fireteam builder — inheritance, polymorphism, dicts | Personal Project | End of Freshman Year, Summer Project |
+| [To-do-tasks](https://github.com/The-Jedi-501/To-do-tasks-) | Task priority tracker | Personal Project | End of Freshman Year, Summer Project |
 
 
 ## Hardware Projects *(coming soon)*:
-| Project | Description | Reason for building |
-|---|---|---|
-| Arduino Servo Project | Hands-on breadboard build with servo motors |
-| Sonar Display | Physical build to complement the C++ radar project |
+| Project | Description | Reason for building | When it was built |
+|---|---|---|---|
+| Arduino Servo Project | Hands-on breadboard build with servo motors | Find out later | Find out later |
+| Sonar Display | Physical build to complement the C++ radar project | Find out later | Find out later |
 
 
 ## Research Projects:
-| Repo | Description | Reason for building |
-|---|---|---|
-| [UUV Defender Agent 1](https://github.com/The-Jedi-501/Research-UUV-Defender-Agent1-Demo) | Be able to demo the UUV moving from point A to B | Team-based Research Project |
+| Repo | Description | Reason for building | When it was built |
+|---|---|---|---|
+| [UUV Defender Agent 1](https://github.com/The-Jedi-501/Research-UUV-Defender-Agent1-Demo) | Be able to demo the UUV moving from point A to B | Team-based Research Project | End of Freshman Year, Summer Research | 
 
 
 *CE/EE @ UMass Dartmouth — always building something*
