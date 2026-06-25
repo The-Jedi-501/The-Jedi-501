@@ -32,8 +32,8 @@ add all my rf stuff from design also just putting all my projects here rn so its
 ## Hardware Projects *(coming soon)*:
 | Project | Description | Reason for building | When it was built |
 |---|---|---|---|
-| Arduino Servo Project | Hands-on breadboard build with servo motors | Find out later | Find out later |
-| Sonar Display | Physical build to complement the C++ radar project | Find out later | Find out later |
+| Arduino Servo Project | Hands-on breadboard build with servo motors | Still learning & building my hardware skills | Will be a later part of my journey into embedded systems and hardware development |
+| Sonar Display | Physical build to complement the C++ radar project | Still learning & building my hardware skills | Will be a later part of my journey into embedded systems and hardware development |
 
 
 ## Research Projects:
