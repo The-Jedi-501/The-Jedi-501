@@ -1,4 +1,4 @@
-# Hey, I'm Chris 👋
+# Hello there, I'm Chris 
 
 Undergraduate at UMass Dartmouth studying Computer Engineering and Electrical Engineering. Interested in embedded systems, robotics, and defense applications.
 
