@@ -2,7 +2,7 @@
 
 Undergraduate at UMass Dartmouth studying Computer Engineering and Electrical Engineering. Interested in embedded systems, robotics, and defense applications.
 
-Here's a list of what I've done, categorized by programming language, as well as my involvement in some research, and when projects were built, so I have a timeline of my skills developing over time
+Here's a list of what I've done, categorized by programming language, as well as my involvement in some research, and when projects were built, so I have a timeline of my skills developing over time as well as having the project of the respective language getting added on top to see most relevant project, hope you enjoy
 
 (For hardware, I plan on posting the Arduino code as well as a picture and video of the working final circuit(s))
 
