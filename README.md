@@ -6,7 +6,7 @@ Here's a list of what I've done, categorized by programming language, as well as
 
 (For hardware, I plan on posting the Arduino code as well as a picture and video of the working final circuit(s))
 
-add all my rf stuff from design also just putting all my projects here rn so its easier for later when i make a real portoflio
+Future me add : add all my rf stuff from design also just putting all my projects here rn so its easier for later when i make a real portoflio, also a currently building so it looks fresh
 
 ---
 
