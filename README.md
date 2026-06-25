@@ -42,4 +42,4 @@ add all my rf stuff from design also just putting all my projects here rn so its
 | [UUV Defender Agent 1](https://github.com/The-Jedi-501/Research-UUV-Defender-Agent1-Demo) | Be able to demo the UUV moving from point A to B | Team-based Research Project | End of Freshman Year, Summer Research | 
 
 
-*CE/EE @ UMass Dartmouth — always building something*
+*CE/EE @ UMass Dartmouth — Learning one day at a time*
