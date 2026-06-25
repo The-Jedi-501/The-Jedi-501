@@ -39,7 +39,7 @@ add all my rf stuff from design also just putting all my projects here rn so its
 ## Research Projects:
 | Repo | Description | Reason for building |
 |---|---|---|
-| [UUV Defender Agent 1](https://github.com/The-Jedi-501/Research-UUV-Defender-Agent1-Demo) | Be able to demo the UUV moving from point A to B | Team based Reseaech Project |
+| [UUV Defender Agent 1](https://github.com/The-Jedi-501/Research-UUV-Defender-Agent1-Demo) | Be able to demo the UUV moving from point A to B | Team-based Research Project |
 
 
 *CE/EE @ UMass Dartmouth — always building something*
