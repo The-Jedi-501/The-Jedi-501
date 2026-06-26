@@ -39,8 +39,8 @@ Future me add : add all my rf stuff from design also just putting all my project
 ## Research Projects:
 | Repo | Description | Reason for building | When it was built |
 |---|---|---|---|
-| [UUV Defender Agent 1](https://github.com/The-Jedi-501/Research-UUV-Defender-Agent1-Demo) | Be able to demo the UUV moving from point A to B | Team-based Research Project | End of Freshman Year, Summer Research | 
-| [UUV Defender Agent 2 Sacrificial Decoy](https://github.com/The-Jedi-501/Research-UUV-Defender-Agent2-Decoy-Demo) | Goal was to be able to have a decoy that would lure away a seeker from a target | Team-based Research Project | End of Freshman Year, Summer Research | 
+| [UUV Defender Agent 1 - Patrol Demo](https://github.com/The-Jedi-501/Research-UUV-Defender-Agent1-Demo) | Be able to demo the UUV moving from point A to B | Team-based Research Project | End of Freshman Year, Summer Research | 
+| [UUV Defender Agent 2 - Sacrificial Decoy Demo](https://github.com/The-Jedi-501/Research-UUV-Defender-Agent2-Decoy-Demo) | Goal was to be able to have a decoy that would lure away a seeker from a target | Team-based Research Project | End of Freshman Year, Summer Research | 
 
 
 *CE/EE @ UMass Dartmouth — Learning one day at a time*
